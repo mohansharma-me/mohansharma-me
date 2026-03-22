@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohansharma-me
 - 👀 I’m an Software Architect
 - 🌱 I’m currently working on expanding my architecture related tech and leading skills
-- 💞️ I’m looking to collaborate on any open source projects
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Send me an email
 
 <!---
